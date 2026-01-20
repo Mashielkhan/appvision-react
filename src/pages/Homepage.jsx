@@ -4,6 +4,8 @@ import Header from '../components/Header';
 import CourseCard from '../components/CourseCard';
 import { fetchCourses } from '../services/api';
 
+
+
 const HomePage = () => {
     const [courses, setCourses] = useState([]);
     const [loading, setLoading] = useState(true);
