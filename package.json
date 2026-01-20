@@ -1,7 +1,7 @@
 {
   "name": "appvision-react",
   "version": "1.0.0",
-  "homepage": "https://Mashiekhan.github.io/appvision-react",
+  "Homepage": "https://Mashiekhan.github.io/appvision-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
